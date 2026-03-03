@@ -8,7 +8,7 @@
 
 ### 🐛 Bug fixes
 
-- [iOS] Improve looping support.
+- [iOS] Improve looping support. ([#43600](https://github.com/expo/expo/pull/43600) by [@alanjhughes](https://github.com/alanjhughes))
 
 ### 💡 Others
 
