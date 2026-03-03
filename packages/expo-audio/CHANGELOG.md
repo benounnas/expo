@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- [iOS] Improve looping support.
+
 ### 💡 Others
 
 ## 55.0.8 — 2026-02-25
